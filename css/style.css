@@ -203,7 +203,10 @@
     color: var(--white-color);
     transform: scale(1.05);
   }
-
+  .iconos {
+    padding-bottom: 20px;
+    display: flex;
+  }
   .intro-soc {
     display: flex;
     margin: 0 -10px;
