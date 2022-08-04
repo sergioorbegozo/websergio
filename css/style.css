@@ -38,11 +38,10 @@
     padding: 0px 0px 0px 30px;
     width: 100%;
     margin: 0 auto;
-    text-align: justify;
   }
 
   .header {
-    padding: 19.4px 0;
+    padding: 10px 0;
     background: var(--white-color);
     box-shadow: 0px -2px 10px rgba(0,0,0,.1);
     transition: .3s;
@@ -396,4 +395,4 @@
     .intro-soc {
       justify-content: center;
     }
-  } 
+  }
